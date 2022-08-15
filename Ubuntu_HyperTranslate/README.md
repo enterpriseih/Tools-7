@@ -16,7 +16,10 @@ Ubuntu 划词翻译
 `sudo apt-get install stardict`
 
 **下载词典**
+
 https://kdr2.com/resource/stardict.html
+
+http://download.huzheng.org/zh_CN/
 
 **解压词典**
 `sudo tar -xjvf stardict-langdao-ec-gb-2.4.2.tar.bz2`
